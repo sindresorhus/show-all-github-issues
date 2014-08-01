@@ -1,6 +1,6 @@
 {
 	"name": "GitHub Issues All",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Show both Issues and Pull Requests in the Issues tab by default. As it previously did.",
 	"homepage_url": "https://github.com/sindresorhus/github-issues-all",
 	"manifest_version": 2,

@@ -1,17 +1,16 @@
-# GitHub Issues All
-
-[![](icon.png)](https://chrome.google.com/webstore/detail/github-issues-all/ahkcgmpcfiijldaijfjekdffckpidieb)
+# <img src="icon.png" width="30"> GitHub Issues All
 
 > Chrome extension - Show both Issues and Pull Requests in the Issues tab by default. As it previously did.
 
-[![](screenshot.png)](https://chrome.google.com/webstore/detail/github-issues-all/ahkcgmpcfiijldaijfjekdffckpidieb)
+[![](screenshot.png)][install]
 
 
-## Install
-
-[Get it on the Chrome Web Store.](https://chrome.google.com/webstore/detail/github-issues-all/ahkcgmpcfiijldaijfjekdffckpidieb)
+## [Install][install]
 
 
 ## License
 
 MIT © [Sindre Sorhus](http://sindresorhus.com)
+
+
+[install]: https://chrome.google.com/webstore/detail/github-issues-all/ahkcgmpcfiijldaijfjekdffckpidieb

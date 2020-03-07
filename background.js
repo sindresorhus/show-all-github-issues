@@ -1,6 +1,6 @@
 'use strict';
 
-chrome.webRequest.onBeforeRequest.addListener(function (details) {
+chrome.webRequest.onBeforeRequest.addListener(details => {
 	if (details.method === 'GET') {
 		const searchParams = new URLSearchParams(details.url.searchParams);
 		searchParams.set('q', 'is:open');
